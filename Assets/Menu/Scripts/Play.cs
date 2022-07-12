@@ -11,3 +11,4 @@ public class Play : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 }
+ 
